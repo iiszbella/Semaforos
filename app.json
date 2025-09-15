@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "semaforos",
+    "slug": "snack-200c4e36-aeff-4df3-a3db-7b21da3d6200",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Construir 2 semáforos, um vertical e um horizontal, usando apenas Views e estilização com Flexbox no React Native.",
+    "extra": {
+      "eas": {
+        "projectId": "391ed198-2991-45af-95f4-257588ac9e63"
+      }
+    }
+  }
+}
