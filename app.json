@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.iiszbella.snack200c4e36aeff4df3a3db7b21da3d6200"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -30,6 +31,9 @@
       "eas": {
         "projectId": "391ed198-2991-45af-95f4-257588ac9e63"
       }
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
